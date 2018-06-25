@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.FormButtons {
+  margin-top: 25px;
+}
+
+.FirstButton {
+  margin-right: 15px;
+}
+
+.MainForm {
+  border: 1px solid red;
+  padding: 30px;
+  width: 420px;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+.ListItem {
+  border: 1px solid green;
+  width: 350px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.Input {
+  padding-left: 3px;
+}
+
+.icon {
+  margin-left: 5px
+}
